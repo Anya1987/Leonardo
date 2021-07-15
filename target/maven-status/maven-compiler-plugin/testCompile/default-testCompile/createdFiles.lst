@@ -1,0 +1,4 @@
+runner\RegressionRunner.class
+runner\SmokeRunner.class
+runner\testRunner.class
+stepDefinition\LoginTest.class
